@@ -20,3 +20,10 @@ Before you begin, ensure you have the following installed:
   ```sh
   git clone https://github.com/arshbansall/Axal_Take_Home.git
 
+  cd axal-frontend
+
+  npm install 
+
+  npm run dev
+  ```
+
