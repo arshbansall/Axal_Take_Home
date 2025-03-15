@@ -19,6 +19,7 @@ Before you begin, ensure you have the following installed:
   Clone this repository to your local machine using Git:
   ```sh
   git clone https://github.com/arshbansall/Axal_Take_Home.git
+  ```
 
   cd axal-frontend
 
