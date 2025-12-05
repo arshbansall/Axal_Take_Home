@@ -1,4 +1,4 @@
-# AXAL Take Home
+# Yield Finder
 ## Proof of “highest yield” from a list of 5 hardcoded pools in AAVE testnet.
 
 The project features a frontend where users can connect their wallets and select the token reserve on AAVE that is currently offering the highest yield. If they choose the correct token, they receive a reward of 0.001 ETH directly in their wallets.
